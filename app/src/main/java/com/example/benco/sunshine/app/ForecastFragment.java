@@ -59,7 +59,7 @@ public class ForecastFragment extends Fragment {
                 HttpURLConnection urlConnection = null;
                 BufferedReader reader = null;
 
-// Will contain the raw JSON response as a string.
+// Will contain the raw JSON response as a strineg.
                 String forecastJsonStr = null;
 
                 try {
